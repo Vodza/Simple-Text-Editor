@@ -1,5 +1,3 @@
-
-// Main.java
 import Controller.TextEditorController;
 import Model.TextEditorModel;
 import javafx.application.Application;
